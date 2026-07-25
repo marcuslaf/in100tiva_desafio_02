@@ -1,18 +1,28 @@
-# 🍫 Bolo de Chocolate Simples
+# Desafio 02 - Página de Receita
+# Challenge 02 - Recipe Page
 
-Uma página web responsiva com receita de bolo de chocolate usando HTML e CSS puro.
+**Segundo desafio do programa In100tiva. Página de receita de Bolo de Chocolate com layout semântico e estilização CSS.**
 
-## 📋 Pré-requisitos
-- Navegador moderno
+**Second challenge of the In100tiva program. Chocolate Cake recipe page with semantic layout and CSS styling.**
 
-## 🛠️ Tecnologias
-- HTML5
-- CSS3
+---
 
-## 🚀 Execução
-1. Clone o projeto:
-```bash
-git clone https://github.com/Marcuslaf/in100tiva_desafio_02
-```
+## Tecnologias | Technologies
 
-2. Abra index.html no navegador
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Funcionalidades | Features
+
+
+
+---
+
+## Autor | Author
+
+**Marcus Lafaiete** — [@marcuslaf](https://github.com/marcuslaf)
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/status-conclu%C3%ADdo-success?style=for-the-badge"/>
+</div>
